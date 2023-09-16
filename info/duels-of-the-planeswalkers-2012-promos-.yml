@@ -1,0 +1,15 @@
+---
+object: set
+id: 9ed1e58a-9f8a-41f8-b1ca-9f661e3f9ca8
+code: pdp12
+name: 'Duels of the Planeswalkers 2012 Promos '
+uri: https://api.scryfall.com/sets/9ed1e58a-9f8a-41f8-b1ca-9f661e3f9ca8
+scryfall_uri: https://scryfall.com/sets/pdp12
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apdp12&unique=prints
+released_at: '2011-01-01'
+set_type: promo
+card_count: 3
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/pmtg2.svg?1694404800

@@ -1,0 +1,110 @@
+---
+object: card
+id: 17ac2bff-f570-4955-a8d4-7e12d616dd8b
+oracle_id: 0ce47c8b-1e1f-463f-94f0-35ca00be89e6
+multiverse_ids: []
+tcgplayer_id: 72349
+cardmarket_id: 247433
+name: Inferno Titan
+lang: en
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/17ac2bff-f570-4955-a8d4-7e12d616dd8b
+scryfall_uri: https://scryfall.com/card/pdp12/3/inferno-titan?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/7/17ac2bff-f570-4955-a8d4-7e12d616dd8b.jpg?1561756723
+  normal: https://cards.scryfall.io/normal/front/1/7/17ac2bff-f570-4955-a8d4-7e12d616dd8b.jpg?1561756723
+  large: https://cards.scryfall.io/large/front/1/7/17ac2bff-f570-4955-a8d4-7e12d616dd8b.jpg?1561756723
+  png: https://cards.scryfall.io/png/front/1/7/17ac2bff-f570-4955-a8d4-7e12d616dd8b.png?1561756723
+  art_crop: https://cards.scryfall.io/art_crop/front/1/7/17ac2bff-f570-4955-a8d4-7e12d616dd8b.jpg?1561756723
+  border_crop: https://cards.scryfall.io/border_crop/front/1/7/17ac2bff-f570-4955-a8d4-7e12d616dd8b.jpg?1561756723
+mana_cost: "{4}{R}{R}"
+cmc: 6.0
+type_line: Creature — Giant
+oracle_text: |-
+  {R}: Inferno Titan gets +1/+0 until end of turn.
+  Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three targets.
+power: '6'
+toughness: '6'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 9ed1e58a-9f8a-41f8-b1ca-9f661e3f9ca8
+set: pdp12
+set_name: 'Duels of the Planeswalkers 2012 Promos '
+set_type: promo
+set_uri: https://api.scryfall.com/sets/9ed1e58a-9f8a-41f8-b1ca-9f661e3f9ca8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apdp12&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pdp12?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/17ac2bff-f570-4955-a8d4-7e12d616dd8b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0ce47c8b-1e1f-463f-94f0-35ca00be89e6&unique=prints
+collector_number: '3'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Sam Burley
+artist_ids:
+- f89f4b78-cefb-41f7-b7cb-4f4d28de0c4f
+illustration_id: d2bedade-ce3e-4608-ad29-c626588186cd
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- duels
+edhrec_rank: 1493
+penny_rank: 175
+prices:
+  usd: 
+  usd_foil: '3.00'
+  usd_etched: 
+  eur: 
+  eur_foil: '1.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Inferno+Titan&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Inferno+Titan&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Inferno+Titan
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/72349?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Inferno+Titan&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Inferno+Titan&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
